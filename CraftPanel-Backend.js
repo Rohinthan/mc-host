@@ -44,7 +44,7 @@ const MODS_DIR    = path.join(BASE_DIR, "mods_cache");
 let serverProcess  = null;   // child_process
 let serverRunning  = false;
 let serverConfig   = {};
-let logBuffer      = [];     // last 300 lines
+let logBuffer      = [];     // last 300 lines 
 let sseClients     = [];     // SSE connections
 
 function pushLog(line) {
