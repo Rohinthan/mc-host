@@ -91,8 +91,8 @@ craftpanel/
 
 ### 1. Clone this repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/craftpanel.git
-cd craftpanel
+
+https://github.com/Rohinthan/mc-host
 ```
 
 ### 2. Install backend dependencies
@@ -129,7 +129,7 @@ You'll see:
 
 ---
 
-## 📲 Deploy the App (Free)
+## Deploy the App (Free)
 
 ### Frontend — Netlify
 1. Go to https://netlify.com
@@ -175,7 +175,7 @@ pm2 save
 
 ---
 
-## 🌐 Port Reference
+## Port Reference
 
 | Port | Protocol | Purpose |
 |------|----------|---------|
@@ -186,7 +186,7 @@ pm2 save
 
 ---
 
-## 📱 App Tabs
+## App Tabs
 
 | Tab | What it does |
 |-----|-------------|
@@ -200,19 +200,19 @@ pm2 save
 
 ---
 
-## 🔧 Supported Server Types
+## Supported Server Types
 
 | Type | Mods Support | Best For |
 |------|-------------|---------|
-| 🌿 **Vanilla** | None | Pure official experience |
-| 🧵 **Fabric** | Fabric mods | Performance & lightweight mods |
-| 🔥 **Forge** | Forge mods | Large modpacks |
-| 🪡 **Quilt** | Fabric + Quilt | Fabric fork with extras |
-| ⚙️ **NeoForge** | NeoForge mods | Modern Forge replacement |
+|  **Vanilla** | None | Pure official experience |
+|  **Fabric** | Fabric mods | Performance & lightweight mods |
+|  **Forge** | Forge mods | Large modpacks |
+|  **Quilt** | Fabric + Quilt | Fabric fork with extras |
+|  **NeoForge** | NeoForge mods | Modern Forge replacement |
 
 ---
 
-## 🎮 Crossplay Support
+##  Crossplay Support
 
 CraftPanel uses **Geyser** and **Floodgate** to bridge Bedrock and Java:
 
@@ -239,7 +239,7 @@ CraftPanel uses **Geyser** and **Floodgate** to bridge Bedrock and Java:
 
 ---
 
-## 📋 Useful Commands
+## Useful Commands
 
 ```
 /list                          → show online players
@@ -259,13 +259,13 @@ CraftPanel uses **Geyser** and **Floodgate** to bridge Bedrock and Java:
 
 ---
 
-## 📄 License
+## License
 
 MIT License — free to use, modify, and distribute.
 
 ---
 
-## 🙏 Credits
+## Credits
 
 - **Minecraft** — Mojang Studios
 - **Geyser** — GeyserMC team (https://geysermc.org)
@@ -275,5 +275,6 @@ MIT License — free to use, modify, and distribute.
 
 ---
 
-> Built with ⛏️ by the CraftPanel project.
-> Star ⭐ this repo if it helped you!
+> Built with by the CraftPanel projects.
+> Star this repo if it helped you!
+>  may help me do develop this project into the application 
