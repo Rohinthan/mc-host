@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef, useCallback } from "react";
 
-// ─── THEME ────────────────────────────────────────────────────────────────────
+// THEME 
 const T = {
   bg:     "#08090d",
   surf:   "#10141c",
@@ -21,11 +21,11 @@ const T = {
   white:  "#f1f5f9",
 };
 
-// ─── BACKEND CONFIG ──────────────────────────────────────────────────────────
+// ─── BACKEND CONFIG ───── //
 // Change this to your server's IP when running the backend
 const API = "http://localhost:4000";
 
-// ─── INITIAL MOCK STATE ──────────────────────────────────────────────────────
+// ─── INITIAL MOCK STATE ────────────
 const MOCK_PLAYERS = [
   { name:"Steve_Builder", client:"java",    status:"online", ping:42,  gm:"survival",  op:true,  joined:"2m"  },
   { name:"Alex_Miner",   client:"java",    status:"online", ping:77,  gm:"creative",  op:false, joined:"14m" },
