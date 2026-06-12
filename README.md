@@ -5,11 +5,6 @@ but the name itself craftpanel
 > **A free, open-source Minecraft Server Manager you control from your phone.**
 > Built for players who want full server control without paying for hosting panels.
 
-![Version](https://img.shields.io/badge/Minecraft-1.8.9--1.21.1-green)
-![Platform](https://img.shields.io/badge/Platform-Java%20%7C%20Bedrock-blue)
-![License](https://img.shields.io/badge/License-MIT-purple)
-![Stack](https://img.shields.io/badge/Stack-React%20%2B%20Node.js-cyan)
-
 ---
 
 ##  What is CraftPanel?
