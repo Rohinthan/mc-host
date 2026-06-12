@@ -1,0 +1,20 @@
+{
+  "name": "craftpanel-backend",
+  "version": "1.0.0",
+  "description": "CraftPanel Minecraft Server Manager Backend",
+  "main": "CraftPanel-Backend.js",
+  "scripts": {
+    "start": "node CraftPanel-Backend.js",
+    "dev": "nodemon CraftPanel-Backend.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "fs-extra": "^11.2.0",
+    "node-fetch": "^2.7.0",
+    "rcon-client": "^4.2.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
