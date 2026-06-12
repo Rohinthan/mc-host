@@ -1,4 +1,4 @@
-# ⛏️ CraftPanel — Full Setup Guide
+# mc-host — Full Setup Guide
 
 > Manage your Minecraft server from your phone.
 > Vanilla Java · Fabric · Forge · Quilt · NeoForge
@@ -29,7 +29,7 @@ Your phone app connects to it over the internet.
 ### Step-by-step
 
 ```bash
-# 1. Make a folder for CraftPanel
+# 1. Make a folder for mc-host
 mkdir craftpanel && cd craftpanel
 
 # 2. Put these files in it:
@@ -139,7 +139,7 @@ npm start
    - Home PC: `http://YOUR_WAN_IP:4000`
    - VPS: `http://YOUR_VPS_IP:4000`
    - Same WiFi only: `http://192.168.1.42:4000`
-5. Tap **Connect** — you should see "⚡ LIVE" badge appear
+5. Tap **Connect** — you should see "LIVE" badge appear
 
 ---
 
@@ -288,4 +288,4 @@ craftpanel/
 
 ---
 
-Made with ⛏️ CraftPanel
+Made with mc-host
