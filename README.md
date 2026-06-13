@@ -2,6 +2,8 @@
 
 but the name itself craftpanel 
 
+note : created with ai 
+
 > **A free, open-source Minecraft Server Manager you control from your phone.**
 > Built for players who want full server control without paying for hosting panels.
 
